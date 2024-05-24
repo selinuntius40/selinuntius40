@@ -1,4 +1,4 @@
-### You look after your mates and your mates will always look after you.
+I really need to work on a personal project
 
 <!--
 **Selinuntius02/Selinuntius02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
