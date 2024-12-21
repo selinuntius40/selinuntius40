@@ -13,6 +13,6 @@ I am an undergraduate at the University of Queensland.
 | ------------- | ------------- |
 
 
-<a href="https://github.com/Selinuntius02">
+<a href="https://github.com/selinuntius40">
   <img align="right" alt="Ryuto's GitHub Page" width="21px" src="images/github-mark.svg" />
 </a>
