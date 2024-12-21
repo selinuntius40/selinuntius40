@@ -9,7 +9,7 @@ I am an undergraduate at the University of Queensland.
 - 📜 Co-Authored [___"AI-assisted marking: Functionality and limitations of ChatGPT in written assessment evaluation"___](https://doi.org/10.14742/ajet.9463)
 - ❤️ I love music, reading, and, of course, coding!
 
-| <a href="https://github.com/Selinuntius02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Selinuntius02&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Selinuntius02's github stats" /></a> | <a href="https://github.com/Selinuntius02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selinuntius02&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/selinuntius40/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=selinuntius40&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="selinuntius40's github stats" /></a> | <a href="https://github.com/selinuntius40/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinuntius40&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
