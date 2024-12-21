@@ -20,10 +20,10 @@ I am an undergraduate at the University of Queensland.
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinuntius40&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/selinuntius40/PatternAnalysis-2024">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=selinuntius40&repo=PatternAnalysis-2024&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/WilliamMercado/DECO3801_The_R6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMercado&repo=DECO3801_The_R6&theme=buefy" />
 </a>
 
