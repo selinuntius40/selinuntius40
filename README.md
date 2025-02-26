@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile!
 
-I am an undergraduate at the University of Queensland.
-
 ## About Me
 
-- 🏫 Studying Computer Science/Commerce (Machine Learning/Finance)
+- 🏫 Studying Computer Science/Commerce (Machine Learning/Finance) at the University of Queensland
 - 💻 Wespac Hackathon 2024 Finalist
+- 🧪 Research Experience at the Sustainable Minerals Institute
 - 📜 Co-Authored [___"AI-assisted marking: Functionality and limitations of ChatGPT in written assessment evaluation"___](https://doi.org/10.14742/ajet.9463)
 - ❤️ I love music, reading, and, of course, coding!
 
