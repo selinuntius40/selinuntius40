@@ -1,6 +1,5 @@
 # Welcome to My GitHub Profile!
 
-<a href="https://selinuntius40.github.io/">Portfolio</a> \
 <a href="https://smi.uq.edu.au/profile/14633/ryuto-hisamoto">SMI Profile</a>
 
 ## About Me
