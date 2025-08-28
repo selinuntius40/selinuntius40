@@ -4,28 +4,32 @@
 
 ## About Me
 
-- 🏫 Studying Computer Science/Commerce (Machine Learning/Finance) at the University of Queensland
+- 🏫 Computer Science/Commerce (Machine Learning/Finance) Graduate of the University of Queensland
 - 🏅 Wespac Hackathon 2024 Finalist
 - 🧪 Former Summer Research Intern at the Sustainable Minerals Institute
+- 🧑‍🏫 DECO3801/7381 Casual Academic at the University of Queensland
 - 💻 Casual Software Developer at the Sustainable Minerals Institute
+- Casual Academic at the University of Queensland
 - 📜 Co-Authored [___"AI-assisted marking: Functionality and limitations of ChatGPT in written assessment evaluation"___](https://doi.org/10.14742/ajet.9463)
 - ❤️ I love music, reading, and, of course, coding!
 
 ### Languages
 
 - C#
-- HTML
+- HTML/CSS
 - Java
 - JavaScript
-- MySQL
+- SQL
 - Python
 - R
 
-### Frameworks
+### Frameworks/Libraries
 
+- Cytoscape.js
 - Flask
 - Jupyter Notebook
 - Matplotlib
+- NetworkX
 - NumPy
 - pandas
 - pytest
